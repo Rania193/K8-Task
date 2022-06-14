@@ -14,9 +14,10 @@ Worker 2 - IP: 172.16.16.202
 ## Virtual IP managed by Keepalived on the load balancer nodes
 
 ## Prerequisits to run this on local env
-Virtualbox
-Vagrant
--------------------
+* Virtualbox
+* Vagrant
+
+### Steps
 ```
 vagrant up
 ```
