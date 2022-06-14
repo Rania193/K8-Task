@@ -1,6 +1,6 @@
 # K8-Task
 Task to build a Kubernetes cluster and connect it to a private docker registry.
-# Nodes are set up using kubeadm, using Ubuntu 20.0.04 with keepalivd and haproxy
+### Nodes are set up using kubeadm, using Ubuntu 20.0.04 with keepalivd and haproxy
 
 # Vagrant Environemt
 Load Balancer 1 - IP: 172.16.16.51
